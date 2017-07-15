@@ -1,0 +1,49 @@
+{ "rectangle":
+	{ "training-image": "/api/static/img/skating/01.jpg"
+	, "images":
+		[ "/api/static/img/balloon/01.jpg"
+		, "/api/static/img/baseball/01.jpg"
+		, "/api/static/img/bear/01.jpg"
+		, "/api/static/img/cheetah/01.jpg"
+		, "/api/static/img/ferrari/01.jpg"
+		, "/api/static/img/gymnast/01.jpg"
+		, "/api/static/img/helicopter/01.jpg"
+		, "/api/static/img/kite/01.jpg"
+		, "/api/static/img/pyramid/01.jpg"
+		, "/api/static/img/statue_of_liberty/01.jpg"
+		, "/api/static/img/taj_mahal/01.jpg"
+		]
+	}
+, "outline":
+	{ "training-image": "/api/static/img/skating/02.jpg"
+	, "images":
+		[ "/api/static/img/balloon/02.jpg"
+		, "/api/static/img/baseball/02.jpg"
+		, "/api/static/img/bear/02.jpg"
+		, "/api/static/img/cheetah/02.jpg"
+		, "/api/static/img/ferrari/02.jpg"
+		, "/api/static/img/gymnast/02.jpg"
+		, "/api/static/img/helicopter/02.jpg"
+		, "/api/static/img/kite/02.jpg"
+		, "/api/static/img/pyramid/02.jpg"
+		, "/api/static/img/statue_of_liberty/02.jpg"
+		, "/api/static/img/taj_mahal/02.jpg"
+		]
+	}
+, "scribbles":
+	{ "training-image": "/api/static/img/skating/03.jpg"
+	, "images":
+		[ "/api/static/img/balloon/03.jpg"
+		, "/api/static/img/baseball/03.jpg"
+		, "/api/static/img/bear/03.jpg"
+		, "/api/static/img/cheetah/03.jpg"
+		, "/api/static/img/ferrari/03.jpg"
+		, "/api/static/img/gymnast/03.jpg"
+		, "/api/static/img/helicopter/03.jpg"
+		, "/api/static/img/kite/03.jpg"
+		, "/api/static/img/pyramid/03.jpg"
+		, "/api/static/img/statue_of_liberty/03.jpg"
+		, "/api/static/img/taj_mahal/03.jpg"
+		]
+	}
+}

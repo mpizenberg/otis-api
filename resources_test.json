@@ -1,0 +1,13 @@
+{ "rectangle":
+	{ "training-image": "/api/static/img/skating/01.jpg"
+	, "images": [ "/api/static/img/balloon/01.jpg" ]
+	}
+, "outline":
+	{ "training-image": "/api/static/img/skating/02.jpg"
+	, "images": [ "/api/static/img/balloon/02.jpg" ]
+	}
+, "scribbles":
+	{ "training-image": "/api/static/img/skating/03.jpg"
+	, "images": [ "/api/static/img/balloon/03.jpg" ]
+	}
+}
